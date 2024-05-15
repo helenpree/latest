@@ -1,5 +1,6 @@
 a=10
 b=345
-c=a*b
+c=456
+d=a*b-c
 print(c)
-print("the output is: 355")
+print("the output is:{d}")
